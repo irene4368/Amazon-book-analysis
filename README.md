@@ -44,12 +44,6 @@ amazon-book-analysis/
 │   ├── Amazon_Books_Dashboard.pdf           # Exported Power BI dashboard
 │   └── dashboard_screenshot.png            # Dashboard preview
 │
-├── visuals/
-│   ├── top_10_authors.png
-│   ├── reviews_over_time.png
-│   ├── fiction_vs_nonfiction_price.png
-│   └── rating_distribution.png
-│
 └── README.md
 
 
